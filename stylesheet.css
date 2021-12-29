@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'ShouShuti';
-    src: url('ShouShuti.eot');
-    src: url('ShouShuti.eot?#iefix') format('embedded-opentype'),
-        url('ShouShuti.woff2') format('woff2'),
-        url('ShouShuti.woff') format('woff'),
-        url('ShouShuti.ttf') format('truetype'),
-        url('ShouShuti.svg#ShouShuti') format('svg');
+    font-family: 'qiantubifengshouxieti';
+    src: url('qiantubifengshouxieti.eot');
+    src: url('qiantubifengshouxieti.eot?#iefix') format('embedded-opentype'),
+        url('qiantubifengshouxieti.woff2') format('woff2'),
+        url('qiantubifengshouxieti.woff') format('woff'),
+        url('qiantubifengshouxieti.ttf') format('truetype'),
+        url('qiantubifengshouxieti.svg#qiantubifengshouxieti') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
