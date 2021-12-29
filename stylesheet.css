@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ShouShuti';
+    src: url('ShouShuti.eot');
+    src: url('ShouShuti.eot?#iefix') format('embedded-opentype'),
+        url('ShouShuti.woff2') format('woff2'),
+        url('ShouShuti.woff') format('woff'),
+        url('ShouShuti.ttf') format('truetype'),
+        url('ShouShuti.svg#ShouShuti') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
